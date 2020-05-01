@@ -24,8 +24,9 @@ def assembled_matrix
   # Make sure conventional produce is first, on the 'zeroth' / 'bottom' shelf
   
   new_array = [
-    ORGANIC_PRODUCE,
-    CONVENTIONAL_PRODUCE
+    CONVENTIONAL_PRODUCE,
+    ORGANIC_PRODUCE
+    
     ]
   
 end
